@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>EvanBinu</title>
+    <link>http://www.example.com/</link>
+    <description>Recent content on EvanBinu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 05 Jan 2023 01:15:29 +0100</lastBuildDate><atom:link href="http://www.example.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://www.example.com/about/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/about/</guid>
+      <description>I&amp;rsquo;m Evan Binu Chirayath, and I&amp;rsquo;m from Kerala&amp;rsquo;s Thrissur district. I studied computer science during my higher secondary. Before I transferred to Kerala, I was in GCC for six years. I have a passion for programming and made a couple of projects using python. Currently, I&amp;rsquo;m studying at Amrita Vishva Vidhyalam and am trying to join amfoss as a student. I am also an amateur weight ligther.
+My current PR&amp;rsquo;s are:</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>http://www.example.com/projects/</link>
+      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/projects/</guid>
+      <description>Editing Projects:
+  Keyboard Cover of Carol of the bells(Part1):
+Keyboard cover</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://www.example.com/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/contact/</guid>
+      <description>EMAIL: evanbinu17@gmail.com
+CONTACT: 8089074452
+INSTAGRAM: @evvvvann</description>
+    </item>
+    
+    <item>
+      <title>Process</title>
+      <link>http://www.example.com/process/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/process/</guid>
+      <description>Creation of a portfolio using hugo is part of amfoss recruitment task02.
+Steps required for this task:
+1.I installed hugo package in my terminal using git command:sudo apt install hugo.
+2.Then I created a folder for hugo containing all the necessary items for creation of a blog. Command used:hugo new site blog.
+3.I selected the theme &amp;ldquo;hello-friend-ng&amp;rdquo;, I cloned the theme into the folder I created earier using the command:git clone https://github.</description>
+    </item>
+    
+  </channel>
+</rss>

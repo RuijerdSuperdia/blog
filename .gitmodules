@@ -1,0 +1,4 @@
+[submodule "RuijerdSuperdiaBlog/Public"]
+	path = RuijerdSuperdiaBlog/Public
+	url = https://github.com/RuijerdSuperdia/RuijerdSuperdia.github.io.git
+	branch = main
